@@ -2,13 +2,87 @@
 
 ----
 
->  I excel at boosting a community,
->  through my addictive enthusiasm and inspiring bottom-up initiatives.
+>  I excel at boosting a community through my addictive enthusiasm
+>  and inspiring bottom-up initiatives.
 >  I believe in continuous improvement, software craftsmanship,
 >  integrity, remaining true to myself,
 >  collaboration and delivering what matters.
 
 ----
+
+## About me
+
+I have allergic reactions to internal politics, _blame_ and _command & control_ cultures, 
+and not getting enough space for experimentation.
+In most interactions I'll always try to react after taking into account the other
+persons perspective, but don't always succeed, particularly when I feel passionate
+about something or we're discussing something that ties in to my core values.
+Next to _The Responsibility Process_ I use a range of _tools/concepts_ to help guide myself
+and my team towards better collaboration and meaningful continuous improvement.
+
+## Technical Experience
+
+Open Source
+:   Contributed REST endpoint protection to the [Simba OS project](https://github.com/cegeka/simba-os)
+
+Started the [_SoftwareSandbox_ Github organization](https://github.com/SoftwareSandbox)
+:   [CoolQuoteRegistrationSystem](https://github.com/SoftwareSandbox/CoolQuoteRegistrationSystem), a _CQRS_ pun
+    without having used _CQRS_, where we tried out Aurelia to build an _SPA_ to revisit funny quotes from our Ventouris team.
+    It builds a docker image with a standalone SpringBoot jar serving Aurelia, that can be continuously deployed to Heroku on every successful Travis build.
+:   [ng2boot](https://github.com/SoftwareSandbox/ng2boot), a walking skeleton for Angular2 + SpringBoot, 
+    which got used on a number of sideprojects on the Ventouris team.
+
+Programming Languages
+:   **java:** Years of experience with J2EE, JUnit, Hibernate, 
+    Spring (rest, data, security, ...), Jersey, ...
+
+:   **javascript:** Thorough knowledge of JavaScript (the good parts),
+    popular MV* frameworks (Angular, Aurelia, ...), and NodeJS' ecosystem (NPM, Grunt, ...).
+
+:   **elm:** A pure Functional Programming language to build web applications
+    that I fell in love with and have since started livecoding on Twitch.tv, 
+    with episodes reuploaded to YouTube for posterity.
+
+:   Basic knowledge of **Scala**, **(PL/)SQL**, **html**, **css**
+
+[ref]: https://github.com/cegeka/simba-os
+[ref]: https://github.com/SoftwareSandbox/CoolQuoteRegistrationSystem
+[ref]: https://github.com/SoftwareSandbox/ng2boot
+[ref]: https://www.youtube.com/channel/UC-0Zos25VCU6h6bDiv7bh9w/videos
+
+
+## Other skills
+
+* Human Languages:
+
+     * Dutch (native speaker)
+     * English (excellent)
+     * French (basic)
+     * German (basic)
+
+* Teaching:
+
+     * 2017 • CegekaSchool v2 • taught Git, JavaScript and Angular5 to individuals that wanted to reorient their careers to IT.
+     * 2017 • CegekaSchool v1 • taught Git, JavaScript and Angular5 to individuals that wanted to reorient their careers to IT.
+     * 2016 • PXL • taught Software Engineering in Java (with Spring) to a class of 15+ students for 7 weeks
+     * 2015 • PXL • taught Software Engineering in Java (with Spring) to a class of 15+ students for 7 weeks
+     * 2015 • Cegeka • taught an internally created JavaScript course to external and internal developers
+     
+
+## Achievements
+
+* Co-started the _SoftwareSandbox_, a concept where you could stay at work and play around with new technology,
+  or spend time reading up on articles, together with peers. Which grew out to a Slack team that of 500+ members,
+  facilitating communication and that _feeling of belonging_.
+
+* Host of the LeanCoffee MeetUp in Leuven
+
+* Facilitated multiple CodeRetreat MeetUps both as host and facilitator
+
+* Active enough in the SoCraTes Belgium community to be hosting and facilitating some MeetUps, i.e. an Architectural Kata evening.
+
+* Beat Facebook with our Cegeka team in the Starcraft2 AfterHoursGamingLeague back in 2014. (https://www.youtube.com/watch?v=aKye_Utxzl8)
+
 
 ## Experience
 
@@ -143,72 +217,24 @@ Environment:
 * WebFOCUS (Datawarehouse)
 * Oracle Forms
 
-## Technical Experience
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+January 2003 - March 2003 : **SoftSolutions • Junior Developer on the WebEdison project**
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+In this contractually limited period I helped writing the backend and developing the business layer of the WebEdison project,
+a project of the government to help Flemish teachers share knowledge.
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
+Environment:
+* Java
+* WebSphere
 
 ## Education
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+1999-2002
+:   **Bachelor Applied Computer Sciences**; Hogeschool Limburg (Diepenbeek)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
-
-## Extra Section, Call it Whatever You Want
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
 
 ----
 
+> https://github.com/sch3lp
 > <sch3lp@gmail.com> • +32 (0)479 765 310 • 18/06/1981
 > Bierbeekstraat 122A - 3360 Korbeek-Lo, Belgium
