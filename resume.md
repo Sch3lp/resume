@@ -12,13 +12,15 @@
 
 ## About me
 
-I have allergic reactions to internal politics, _blame_ and _command & control_ cultures, 
-and not getting enough space for experimentation.
 In most interactions I'll always try to react after taking into account the other
-persons perspective, but don't always succeed, particularly when I feel passionate
+persons perspective. But I don't always succeed, particularly when I feel passionate
 about something or we're discussing something that ties in to my core values.
 Next to _The Responsibility Process_ I use a range of _tools/concepts_ to help guide myself
 and my team towards better collaboration and meaningful continuous improvement.
+My go to teaching style is coaching instead of being very directive. I'll always revert 
+back to coaching after briefly adopting a different style to gain progress.
+I have allergic reactions to internal politics, _blame_ and _command & control_ cultures, 
+hierarchy heavy organisational structures and not getting enough space for experimentation.
 
 ## Technical Experience
 
@@ -44,6 +46,10 @@ Programming Languages
     with episodes reuploaded to YouTube for posterity.
 
 :   Basic knowledge of **Scala**, **(PL/)SQL**, **html**, **css**
+
+Architecture and Design techniques
+:   **Simon Brown's C4 diagrams:**, **Event Storming**, **Domain Driven Design**, **CQRS**, **Event Sourcing**, ...
+
 
 [ref]: https://github.com/cegeka/simba-os
 [ref]: https://github.com/SoftwareSandbox/CoolQuoteRegistrationSystem
@@ -75,9 +81,9 @@ Programming Languages
   or spend time reading up on articles, together with peers. Which grew out to a Slack team that of 500+ members,
   facilitating communication and that _feeling of belonging_.
 
-* Host of the LeanCoffee MeetUp in Leuven
+* Host of the LeanCoffee MeetUp in Leuven.
 
-* Facilitated multiple CodeRetreat MeetUps both as host and facilitator
+* Attended multiple (Global Day of) CodeRetreat MeetUps as participant, host and facilitator.
 
 * Active enough in the SoCraTes Belgium community to be hosting and facilitating some MeetUps, i.e. an Architectural Kata evening.
 
@@ -227,6 +233,7 @@ Environment:
 * Java
 * WebSphere
 
+
 ## Education
 
 1999-2002
@@ -235,6 +242,7 @@ Environment:
 
 ----
 
-> https://github.com/sch3lp
+> Blog  : https://sch3lp.github.io
+> GitHub: https://github.com/sch3lp
 > <sch3lp@gmail.com> • +32 (0)479 765 310 • 18/06/1981
 > Bierbeekstraat 122A - 3360 Korbeek-Lo, Belgium
