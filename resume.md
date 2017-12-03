@@ -127,6 +127,15 @@ Architecture & Design techniques
 
 * Beat Facebook with our Cegeka team in the Starcraft2 [AfterHoursGamingLeague](https://www.youtube.com/watch?v=aKye_Utxzl8) back in 2014.
 
+
+## Hobbies
+
+Next to working on side-projects, I also love playing videogames and boardgames with friends.
+
+Sometimes I practice and teach Freestyle Slalom (an inline skating discipline).
+
+And I love buttering down a hill on my snowboard.
+
 ----
 
 ## Experience
@@ -310,11 +319,3 @@ January 2003 - March 2003
 :   **Bachelor Applied Computer Sciences**; Hogeschool Limburg (Diepenbeek)
 
 ----
-
-## Hobbies
-
-Next to working on side-projects, I also love playing videogames and boardgames with friends.
-
-Sometimes I practice and teach Freestyle Slalom (an inline skating discipline).
-
-And I love buttering down a hill on my snowboard.
