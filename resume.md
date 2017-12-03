@@ -44,6 +44,20 @@ Contact
 
 ## Technical Experience
 
+I consider myself to be a full-stack, polyglot developer.
+
+
+Spending the time necessary to talk to the business,
+
+
+in order to build something that matters,
+
+
+in an application that has just enough software architecture.
+
+
+While also taking into account the future developers of the codebase I work on.
+
 Programming Languages
 :   **Java:** Years of experience with J2EE, JUnit, Hibernate, 
     Spring (rest, data, security, ...), Jersey, ...
@@ -68,7 +82,7 @@ Open Source
 :   Contributed REST endpoint protection to the [Simba OS project](https://github.com/cegeka/simba-os)
 
 Architecture & Design techniques
-:   Simon Brown's C4 diagrams, Event Storming, Domain Driven Design, CQRS, Event Sourcing, ...
+:   Simon Brown's C4 diagrams, Light-weight Architectural Decision Records, Event Storming, Domain Driven Design, CQRS, Event Sourcing, Clean Code, ...
 
 
 [ref]: https://github.com/cegeka/simba-os
