@@ -101,19 +101,16 @@ Architecture & Design techniques
 ## Teaching
 
 2017 • Cegeka
-:   At CegekaSchool v2 where I taught Git, JavaScript and Angular5 to individuals that wanted to reorient their careers to IT.
-
-2017 • Cegeka
-:   At CegekaSchool v1 where I taught Git, JavaScript and Angular5 to individuals that wanted to reorient their careers to IT.
+:   At CegekaSchool v1 and v2 where I taught Git, JavaScript and Angular5 to individuals that wanted to reorient their careers to IT.
 
 2016 • PXL
-:   taught Software Engineering in Java (with Spring) to a class of 15+ students for 7 weeks.
+:   Same as in 2015.
 
 2015 • PXL
-:   taught Software Engineering in Java (with Spring) to a class of 15+ students for 7 weeks.
+:   Taught Software Engineering in Java (with Spring) to a class of 15+ students for 7 weeks.
 
 2015 • Cegeka
-:   taught an internally created JavaScript course to external and internal developers.
+:   Taught an internally created JavaScript course to external and internal developers.
 
 ## Achievements
 
