@@ -107,7 +107,7 @@ Architecture & Design techniques
 :   Same as in 2015.
 
 2015 • PXL
-:   Taught Software Engineering in Java (with Spring) to a class of 15+ students for 7 weeks.
+:   Taught Software Engineering in Java (with Spring) to a class of 15+ bachelor students for 7 weeks at the PXL school in Hasselt.
 
 2015 • Cegeka
 :   Taught an internally created JavaScript course to external and internal developers.
