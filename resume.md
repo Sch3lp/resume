@@ -31,10 +31,13 @@ hierarchy heavy organisational structures and not getting enough space for exper
 ## Personal Details
 Blog
 :   <https://sch3lp.github.io>
+
 GitHub
 :   <https://github.com/sch3lp>
+
 Contact
 :   <sch3lp@gmail.com> • +32 (0)479 765 310 • Bierbeekstraat 122A - 3360 Korbeek-Lo, Belgium
+
 Birthdate
 :   18th of June, 1981
 
