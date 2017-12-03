@@ -119,7 +119,7 @@ Architecture & Design techniques
 
 * Co-started the _SoftwareSandbox_, a continuous learning concept with focus on lowering threshold to get started.
   Where you could stay at work and play around with new technology, 
-  or spend time reading up on articles, together with peers. Which grew out to a Slack team that of 500+ members,
+  or spend time reading up on articles, together with peers. Which grew out to a Slack team consisting of 500+ members,
   facilitating communication and that _feeling of belonging_.
 
 * Host of the LeanCoffee MeetUp in Leuven.
