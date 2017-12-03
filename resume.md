@@ -41,6 +41,7 @@ Birthdate
 Contact
 :   <sch3lp@gmail.com> • +32 (0)479 765 310 • Bierbeekstraat 122A, 3360 Korbeek-Lo, Belgium
 
+----
 
 ## Technical Experience
 
@@ -90,18 +91,14 @@ Architecture & Design techniques
 [ref]: https://github.com/SoftwareSandbox/ng2boot
 [ref]: https://www.youtube.com/channel/UC-0Zos25VCU6h6bDiv7bh9w/videos
 
-----
-
-## Other skills
-
-### Human Languages
+## Human Languages
 
 * Dutch (native speaker)
 * English (excellent)
 * French (basic)
 * German (basic)
 
-### Teaching
+## Teaching
 
 2017 • Cegeka
 :   At CegekaSchool v2 where I taught Git, JavaScript and Angular5 to individuals that wanted to reorient their careers to IT.
@@ -117,7 +114,6 @@ Architecture & Design techniques
 
 2015 • Cegeka
 :   taught an internally created JavaScript course to external and internal developers.
-     
 
 ## Achievements
 
@@ -134,6 +130,7 @@ Architecture & Design techniques
 
 * Beat Facebook with our Cegeka team in the Starcraft2 [AfterHoursGamingLeague](https://www.youtube.com/watch?v=aKye_Utxzl8) back in 2014.
 
+----
 
 ## Experience
 
@@ -314,3 +311,5 @@ January 2003 - March 2003
 
 1999-2002
 :   **Bachelor Applied Computer Sciences**; Hogeschool Limburg (Diepenbeek)
+
+----
