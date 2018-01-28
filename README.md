@@ -22,6 +22,9 @@ docker-compose up -d
  * ConTeXt
  * pandoc
 
+#### Mac OSX
+Just install docker for mac (don't use brew) and run it dockerized.
+
 #### Debian
 ```bash
 sudo apt install pandoc context
