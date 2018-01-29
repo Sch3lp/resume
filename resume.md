@@ -140,7 +140,11 @@ And I love buttering down a hill on my snowboard.
 
 ## Experience
 
-February 2015 - now
+March 2018 - now
+:   **Kunlabora (Explore Group - Cronos) • Dev at TBD**
+    
+
+February 2015 - February 2018
 :   **Cegeka • Developer/Coach at Ventouris**
 
     _Ventouris_ is a project that aims to facilitate the management of Social Contributions of the self-employed,
