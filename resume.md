@@ -141,8 +141,18 @@ And I love buttering down a hill on my snowboard.
 ## Experience
 
 March 2018 - now
-:   **Kunlabora (Explore Group - Cronos) • Dev at TBD**
-    
+:   **Kunlabora (Explore Group - Cronos) • Developer at EMMA**
+
+    EMMA is a web application to allow trussmakers to adhere to an upcoming digitalization law by the Flemish Government that requires invoices for mobility improving equipment (wheelchairs etc.) to be sent to a system, in order for the trussmakers to get reimbursed by the Flemish care services.
+
+    Environment:
+
+    * Java
+    * TDD, DDD, Pair & Mob Programming, Continuous Integration, Retrospectives and CodeReviews
+    * Git
+    * Scrum
+    * Integration with the eHealth platform
+    * Deployment on AWS (BeanStalk)
 
 February 2015 - February 2018
 :   **Cegeka • Developer/Coach at Ventouris**
