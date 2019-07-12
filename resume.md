@@ -4,7 +4,7 @@
 
 >  I excel at boosting a community through my addictive enthusiasm
 >  and inspiring bottom-up initiatives.
->  I believe in continuous improvement, software craftsmanship,
+>  I believe in continuous improvement, software crafting,
 >  integrity, remaining true to myself,
 >  collaboration and delivering what matters.
 
@@ -61,10 +61,13 @@ While also taking into account the future developers of the codebase I work on.
 
 Programming Languages
 :   **Java:** Years of experience with J2EE, JUnit, Hibernate, 
-    Spring (rest, data, security, ...), Jersey, ...
+    Spring (rest, data, security, ...), ...
+
+:   **Kotlin:** Some experience. Mostly on [a hobby project](https://github.com/SoftwareSandbox/effit-challenge) I've been livecoding on Twitch.tv,
+    very eager to use on a real project.
 
 :   **JavaScript:** Thorough knowledge of JavaScript (the good parts),
-    popular MV* frameworks (Angular, Aurelia, ...), and NodeJS' ecosystem (NPM, Grunt, ...).
+    popular MV* frameworks (VueJS, Angular, ...), and NodeJS' ecosystem (NPM, Grunt, ...).
 
 :   **Elm:** A pure Functional Programming language to build web applications
     that I fell in love with and have since started livecoding on Twitch.tv, 
@@ -83,9 +86,10 @@ Open Source
 :   Contributed REST endpoint protection to the [Simba OS project](https://github.com/cegeka/simba-os)
 
 Architecture & Design techniques
-:   Simon Brown's C4 diagrams, Light-weight Architectural Decision Records, Event Storming, Domain Driven Design, CQRS, Event Sourcing, Clean Code, ...
+:   Simon Brown's C4 diagrams, Light-weight Architectural Decision Records, Event Storming, Story Mapping, Domain Driven Design, CQRS, Event Sourcing, Clean Architecture (Hexagonal), TDD, Clean Code, ...
 
 
+[ref]: https://github.com/SoftwareSandbox/effit-challenge
 [ref]: https://github.com/cegeka/simba-os
 [ref]: https://github.com/SoftwareSandbox/CoolQuoteRegistrationSystem
 [ref]: https://github.com/SoftwareSandbox/ng2boot
@@ -141,13 +145,16 @@ And I love buttering down a hill on my snowboard.
 ## Experience
 
 March 2018 - now
-:   **Kunlabora (Explore Group - Cronos) • Developer at EMMA**
+:   **Kunlabora (Explore Group - Cronos) • Developer at EMMA & APRO**
 
-    EMMA is a web application to allow trussmakers to adhere to an upcoming digitalization law by the Flemish Government that requires invoices for mobility improving equipment (wheelchairs etc.) to be sent to a system, in order for the trussmakers to get reimbursed by the Flemish care services.
+    EMMA is a web application to allow stores that sell wheelchairs and other tools to adhere to a digitalization law by the Flemish Government that requires invoices for mobility improving equipment (wheelchairs etc.) to be sent to a system, in order for the store owners to get reimbursed by the Flemish care services.
+
+    APRO is a web application that facilitates the approval process of the Flemish Government to get (new) mobility improving equipment approved for reimbursement. APRO can be considered as the main source of truth for Flemish Government approved mobility equipment to other consuming applications (like EMMA).
 
     Environment:
 
-    * Java
+    * Java/Kotlin
+    * VueJS
     * TDD, DDD, Pair & Mob Programming, Continuous Integration, Retrospectives and CodeReviews
     * Git
     * Scrum
